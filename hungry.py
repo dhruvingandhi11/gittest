@@ -12,5 +12,9 @@ if hungry == 'Yes':
   print("eat pizza")
 
 else:
+  thirsty = input("are u thisrty')
+  if thisrty == 'Yes':
+    print('drink water')
+    
   print('do your homework')
 

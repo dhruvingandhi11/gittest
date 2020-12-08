@@ -15,4 +15,5 @@ else:
   thristy = input("are u thristy")
   if thristy == 'Yes':
     print('drink water')
+    print('drink soda')
 

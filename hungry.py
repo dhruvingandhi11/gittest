@@ -8,9 +8,9 @@ Original file is located at
 """
 
 hungry = input("are you hungry?")
-if hungry == 'Yes':
-  print("eat pizza")
+if hungry == "yes":
+  print('eat pizza')
+  print('eat samosa')
 
 else:
   print('do your homework')
-
